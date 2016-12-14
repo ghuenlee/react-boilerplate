@@ -1,5 +1,5 @@
-# react-boilerplate
-# A simple react boilerplate!
+# react-boilerplate - A simple react boilerplate!
 
-1:  Hey!
+This an extremely simple react boilerplate, built with the following modules:
 
+  ...Please fill this up >_>
